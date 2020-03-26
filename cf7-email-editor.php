@@ -3,8 +3,8 @@
 /*
  * Plugin Name:       CF7 email editor
  * Description:       Enable WYSIWYG editor to the Contact Form 7 e-mail body. 
- * Version:           2.1.0
- * Author:            shivashankerbhatta
+ * Version:           2.1.1
+ * Author:            shivashankerbhatta, Theo Dominiak
  * Text Domain:       acf7ee
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
